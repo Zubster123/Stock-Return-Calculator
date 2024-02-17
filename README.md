@@ -2,7 +2,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Zubster123/Minvest-Backend-Task.git
+   git clone https://github.com/Zubster123/Stock-Return-Calculator.git
 
 2. Create your virtual environment: python -m venv venv
 
